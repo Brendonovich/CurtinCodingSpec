@@ -1,0 +1,13 @@
+BreakBeforeBraces: Allman
+PointerAlignment: Right
+UseTab: Never
+ColumnLimit: 78
+SpaceAfterLogicalNot: false
+SpaceAfterTemplateKeyword: false
+SpaceAroundPointerQualifiers: Before
+SpaceBeforeAssignmentOperators: true
+SpaceBeforeSquareBrackets: false
+SpacesInConditionalStatement: true
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
