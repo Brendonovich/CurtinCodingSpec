@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profiles version="13">
+    <profile kind="CodeFormatterProfile" name="OscarsCustomCurtinishStyle" version="13">
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_block" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_anonymous_type_declaration" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_array_initializer" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_annotation_type_declaration" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_switch" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_block" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_method_declaration" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_enum_constant" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_block_in_case" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_enum_declaration" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_constructor_declaration" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.brace_position_for_type_declaration" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.insert_new_line_before_else_in_if_statement" value="insert"/>
+        <setting id="org.eclipse.jdt.core.formatter.keep_else_statement_on_same_line" value="false"/>
+        <setting id="org.eclipse.jdt.core.formatter.force_if_else_statement_brace" value="true"/>
+        <setting id="org.eclipse.jdt.core.formatter.lineSplit" value="9999"/>
+        <setting id="org.eclipse.jdt.core.formatter.comment.line_length" value="9999"/>
+        <setting id="org.eclipse.jdt.core.formatter.comment.format_header" value="false"/>
+        <setting id="org.eclipse.jdt.core.formatter.comment.format_block_comments" value="false"/>
+        <setting id="org.eclipse.jdt.core.formatter.comment.format_source_code" value="false"/>
+        <setting id="org.eclipse.jdt.core.formatter.comment.format_html" value="false"/>
+        <setting id="org.eclipse.jdt.core.formatter.comment.format_javadoc_comments" value="false"/>
+        <setting id="org.eclipse.jdt.core.formatter.comment.clear_blank_lines_in_javadoc_comment" value="false"/>
+    </profile>
+</profiles>
